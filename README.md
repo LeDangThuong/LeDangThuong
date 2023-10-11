@@ -6,8 +6,7 @@
   <h2>About me</h2>
 </p>
   <br/>
-<a>I'm majoring Software Engineer at University of Information Technology</a>
-</p>
+#### **I'm majoring Software Engineer at University of Information Technology**
 
 #### I have greate skill with English and Code 
 
