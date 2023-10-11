@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**LeDangThuong/LeDangThuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Nice to meet all of you 👋
+## My full name is Le Dang Thuong 
+## I have greate skill with English and Code 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
