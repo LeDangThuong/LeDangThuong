@@ -5,7 +5,7 @@
 <p align="left">
   <h2>About me</h2>
 </p>
-<h3>I'm majoring in Software Engineer at University of Infomation Technology in Ho Chi Minh City</h3>
+<a>I'm majoring in Software Engineer at University of Infomation Technology in Ho Chi Minh City</a>
 
 #### I have greate skill with English and Code 
 
