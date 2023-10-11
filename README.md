@@ -1,5 +1,9 @@
 ### Nice to meet all of you 👋
-#### My full name is Le Dang Thuong 
+<p align="center">
+  <b>About me</b>
+  <a>I'm majoring Software Engineer at University of Information Technology</a>
+</p>
+
 #### I have greate skill with English and Code 
 
 - 🔭 I’m currently working on ...
