@@ -1,6 +1,6 @@
 ### Nice to meet all of you 👋
-## My full name is Le Dang Thuong 
-## I have greate skill with English and Code 
+#### My full name is Le Dang Thuong 
+#### I have greate skill with English and Code 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
