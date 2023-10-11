@@ -2,11 +2,10 @@
   <h1>Hi thereeee 👋</h1>
 </p>
 <p>
-<p align="center">
+<p align="left">
   <h2>About me</h2>
 </p>
-  <br/>
-#### **I'm majoring Software Engineer at University of Information Technology**
+<br/>
 
 #### I have greate skill with English and Code 
 
