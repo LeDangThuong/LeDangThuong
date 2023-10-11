@@ -13,7 +13,6 @@
 - Organizing committee of GameUIT Hackathon 2024
 - Leader of the Social Media team call SeExpress at University
 - Have certificate at Volunteer and Education
-- 
 
 #### Hard Skills
 - Guitarist
