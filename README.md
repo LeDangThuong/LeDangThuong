@@ -1,7 +1,12 @@
-### Nice to meet all of you 👋
 <p align="center">
-  <b>About me</b>
-  <a>I'm majoring Software Engineer at University of Information Technology</a>
+  <h1>Hi thereeee 👋</h1>
+</p>
+<p>
+<p align="center">
+  <h2>About me</h2>
+</p>
+  <br/>
+<a>I'm majoring Software Engineer at University of Information Technology</a>
 </p>
 
 #### I have greate skill with English and Code 
