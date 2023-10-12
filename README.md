@@ -8,7 +8,9 @@
 <a> - My full name is Le Dang Thuong but I prefer to be called <b>P1ller</b> </a>
 </br>
 <a> - I was born at Dak Lak Province but now I'm studing and working at Ho Chi Minh City </a>
+</br>
 <a> You can watch my Profile here</a>
+</br>
 <a>Link</a>
 </br>
 <a> - I'm majoring in Software Engineer at University of Infomation Technology in Ho Chi Minh City</a>
