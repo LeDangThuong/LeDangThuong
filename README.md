@@ -10,11 +10,12 @@
 <a> - I have many Soft Skill and Hard Skill </a>
 
 #### Soft Skills
+- Have certificate at Volunteer and Education like
 - Organizing committee of GameUIT Hackathon 2024
 - Leader of the Social Media team call SeExpress at University
-- Have certificate at Volunteer and Education
+- 
 #### Hard Skills
-- A Guitarist, a best player at Volleyball, Football with many kind of Medals
+
 - Street Photographer with Sony Camera: Link (Some picture i took)
 - 5 months experience with Game Dev with C++ (Using DirectX 10)
 - 5 months experience with Game Dev with Unity use C# (2D Game and 3D Game)
@@ -24,6 +25,9 @@
      + Movie Theater: Web - Link
      + Manage Staff: Web - Link
 - 3 months back-end code simple Web: 
+- I play **guitar** when I feel bored, this make me feel better after a hard-working time
+- I'm a best player in Volleyball and I'm a big fan of this sport. I award Silver Medal and Bronze Medal at University Competitive
+- I'm very insterested in taking photo. I often use my camera (Sony a6400 + tamron 17-70mm) to take photo when i have free time.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
