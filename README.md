@@ -50,4 +50,5 @@ https://www.facebook.com/ldt203.pw/
 #### Instagram
 https://www.instagram.com/tld_._/
 #### LinkedIn
-https://vn.linkedin.com/
+www.linkedin.com/in/p1ller
+
