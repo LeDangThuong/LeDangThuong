@@ -10,7 +10,8 @@
 <a> - I'm majoring in Software Engineer at University of Infomation Technology in Ho Chi Minh City</a>
 </br>
 <a> You can watch my Profile here</a>
-<a>Link</a>
+<br/>
+<a src = "https://ledangthuong.github.io/ThuongProfile/" alt ="Link"></a>
 
 #### Soft Skills
 - Have certificate at Volunteer and Education like
