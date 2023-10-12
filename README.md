@@ -5,9 +5,10 @@
 <p align="left">
   <h2>About me</h2>
 </p>
-<a> - I'm majoring in Software Engineer at University of Infomation Technology in Ho Chi Minh City</a>
+<a> - I was born at Dak Lak Province </a>
 </br>
-<a> - I have many Soft Skill and Hard Skill </a>
+<a> - I'm majoring in Software Engineer at University of Infomation Technology in Ho Chi Minh City</a>
+
 
 #### Soft Skills
 - Have certificate at Volunteer and Education like
@@ -15,6 +16,7 @@
 - Leader of the Social Media team call SeExpress at University
 
 #### Hard Skills
+- 6.5 Ielts Certificate
 - 5 months experience with Game Dev with C++ (Using DirectX 10)
 - 5 months experience with Game Dev with Unity use C# (2D Game and 3D Game)
 - 3 months experience with Game Mobile (use C# Unity)
