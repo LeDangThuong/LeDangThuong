@@ -16,7 +16,6 @@
 - Leader of the Social Media team call SeExpress at University
 
 #### Hard Skills
-- 6.5 Ielts Certificate
 - 5 months experience with Game Dev with C++ (Using DirectX 10)
 - 5 months experience with Game Dev with Unity use C# (2D Game and 3D Game)
 - 3 months experience with Game Mobile (use C# Unity)
@@ -28,6 +27,7 @@
 - I play **Guitar** when I feel bored, this make me feel better after a hard-working time
 - I'm a best player in **Volleyball** and I'm a big fan of this sport. I award Silver Medal and Bronze Medal at University Competitive
 - I'm very insterested in **Taking Photo**. I often use my camera (Sony a6400 + tamron 17-70mm) to take photo when i have free time. You can visit my **Instagram** to see some picture and video i took
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
