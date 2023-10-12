@@ -20,14 +20,13 @@
 - Leader of the Social Media team call SeExpress at University
 
 #### Hard Skills
-- 5 months experience with Game Dev with C++ (Using DirectX 10)
-- 5 months experience with Game Dev with Unity use C# (2D Game and 3D Game)
-- 3 months experience with Game Mobile (use C# Unity)
-- 3 months front-end code simple Web and Mobile Apps (use HTML, CSS, Javascript, .Net, TypeScripts, NodeJs, React-Native, ReactJS)
+- Personal Project Game Dev with C++ (Using DirectX 10)
+- Personal Project Game Dev with Unity use C# (2D Game and 3D Game)
+- Personal Project Game Mobile (use C# Unity)
+- Personal Project front-end code simple Web and Mobile Apps (use HTML, CSS, Javascript, .Net, TypeScripts, NodeJs, React-Native, ReactJS)
      + Shopping: Mobile App - Link
-     + Movie Theater: Web - Link
-     + Manage Staff: Web - Link
-- 3 months back-end code simple Web: 
+     + Fintech App: App- Link
+- Personal Project Back-end with .NET using Dapper (C#): Movie Theater - Link
 - I play **Guitar** when I feel bored, this make me feel better after a hard-working time
 - I'm a best player in **Volleyball** and I'm a big fan of this sport. I award Silver Medal and Bronze Medal at University Competitive
 - I'm very insterested in **Taking Photo**. I often use my camera (Sony a6400 + tamron 17-70mm) to take photo when i have free time. You can visit my **Instagram** to see some picture and video i took
