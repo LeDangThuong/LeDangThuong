@@ -11,7 +11,8 @@
 </br>
 <a> You can watch my Profile here</a>
 <br/>
-<a src = "https://ledangthuong.github.io/ThuongProfile/" alt ="Link"></a>
+<a href="https://ledangthuong.github.io/ThuongProfile/">Thương Lê Profile</a>
+
 
 #### Soft Skills
 - Have certificate at Volunteer and Education like
