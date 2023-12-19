@@ -26,7 +26,7 @@
 - Personal Project front-end code simple Web and Mobile Apps (use HTML, CSS, Javascript, .Net, TypeScripts, NodeJs, React-Native, ReactJS)
      + Shopping: Mobile App - Link
      + Fintech App: App- Link
-- Personal Project Back-end with .NET using Dapper (C#): Movie Theater - Link
+- Personal Project Back-end using NodeJs, MongoDB: Employee-Management - Link
 - I play **Guitar** when I feel bored, this make me feel better after a hard-working time
 - I'm a best player in **Volleyball** and I'm a big fan of this sport. I award Silver Medal and Bronze Medal at University Competitive
 - I'm very insterested in **Taking Photo**. I often use my camera (Sony a6400 + tamron 17-70mm) to take photo when i have free time. You can visit my **Instagram** to see some picture and video i took
